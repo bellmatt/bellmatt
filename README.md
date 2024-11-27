@@ -1,5 +1,3 @@
-### Hi there 👋
-
-I’m currently working as a Senior Site Reliability Engineer at Gousto. 
+I do platform engineering at Gousto.
 
 See this site for ways to reach me: <https://mattbell.dev/>
